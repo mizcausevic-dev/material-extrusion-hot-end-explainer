@@ -11,7 +11,7 @@
       "glyph": "coolant",
       "label": "Separate cooling paths",
       "role": "path",
-      "x": 0.12,
+      "x": 0.14,
       "y": 0.32
     },
     {
@@ -27,7 +27,7 @@
       "glyph": "plate",
       "label": "Extrude bead",
       "role": "structure",
-      "x": 0.88,
+      "x": 0.86,
       "y": 0.32
     },
     {
@@ -35,24 +35,24 @@
       "glyph": "plate",
       "label": "Bond warm interfaces",
       "role": "structure",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
       "glyph": "plate",
       "label": "Structure",
       "role": "structure",
-      "x": 0.52,
-      "y": 0.68
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "plate",
       "label": "Voids",
       "role": "structure",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [

@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/material-extrusion-hot-end-explainer/
 
+Repository: https://github.com/mizcausevic-dev/material-extrusion-hot-end-explainer
+
 ## What this is
 
 An interactive anatomy plate for Material-Extrusion Hot End. Play, scrub, or jump the five stages. The same frame always draws the same picture.

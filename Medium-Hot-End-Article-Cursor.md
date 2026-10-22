@@ -1,1 +1,0 @@
-FULL article is on the feature branch; this push intentionally replaced by PR merge path. See verification step.
